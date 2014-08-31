@@ -1,7 +1,7 @@
 Parking
 =======
 
-This python script detects if the domain is parked or not provided it resolves to an IP.
+This python script detects if the domain is parked or not.
 
 Please refer to the following blog for details: http://labs.opendns.com/2013/03/20/discovery-of-new-suspicious-domains-using-authoritative-dns-traffic-and-parked-domains-analysis/
 
